@@ -1,0 +1,15 @@
+{
+  "name": "bsb-native-starter",
+  "sources": "src",
+  "entries": [
+    {
+      "backend": "bytecode",
+      "main-module": "Main"
+    },
+    {
+      "backend": "native",
+      "main-module": "Main"
+    }
+  ],
+  "refmt": 3
+}
